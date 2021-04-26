@@ -16,3 +16,4 @@ print(sess.run(hello))
 
 #print (msft_requests.json())
 print ("Hello World")
+print ("testing 2")
